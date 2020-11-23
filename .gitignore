@@ -78,3 +78,6 @@ lib/generated_plugin_registrant.dart
 !.vscode/extensions.json
 *.code-workspace
 
+ios/Runner/GoogleService-Info.plist
+android/app/google-services.json
+.DS_Store

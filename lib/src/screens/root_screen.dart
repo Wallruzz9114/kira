@@ -9,6 +9,7 @@ class RootScreen extends StatefulWidget {
 }
 
 class _RootScreenState extends State<RootScreen> {
+  // ignore: prefer_final_fields
   List<Widget> _screens = <Widget>[];
   int _currentScreenIndex = 0;
 
